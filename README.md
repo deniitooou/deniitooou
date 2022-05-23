@@ -1,13 +1,21 @@
-↬👋 My name is Denitsa Velikova @deniitooou ! 
-- I was a machine engineer in England, but now I'm inlove in software pogramming..
-- I've got into programming a bit later... :upside_down_face:
-- I've been traveling the world for five years before the pandemic started but home country is Bulgaria and I'm living in Sofia currently. 
-- I’m interested in Learning! 👀
+↬ My name is Denitsa Velikova @deniitooou ! 
+
+↬ I was a machine engineer in England, but now I'm inlove in software pogramming..
+
+↬ I've got into programming a bit later...
+
+
+
+↬ I've been traveling the world for five years before the pandemic started but home country is Bulgaria and I'm living in Sofia currently. 
+
+↬ Some piece of the things that I'm interested ..
+
  
  ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
  ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
  ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
  ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![image](https://img.shields.io/badge/photo-Shoots-white?style=for-the-badge&logo=appveyor)
  
 ### Feel free to contact me also in:
 <a href="https://www.linkedin.com/in/denny-velikova-951354239/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
