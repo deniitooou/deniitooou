@@ -1,4 +1,4 @@
-- ### 👋 Hi world, My name is Stefan @stefangrusev ! 
+- ### 👋 Hi world, My name is Denitsa Velikova @deniitooou ! 
 - I'm an engineer and I studied for four years at the Technical University of Varna then I received my bachelor's degree.. 
 - I've got into programming a bit later. :upside_down_face:
 - I've been traveling the world for seven years before the pandemic started but home country is Bulgaria and I'm living in Karnobat currently. 
@@ -10,7 +10,7 @@
  ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
  
 ### Feel free to contact me also in:
-<a href="https://www.linkedin.com/in/stefan-rusev-2b657822b/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/denny-velikova-951354239/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
  
 ### Some statistic for my GitHub profile:
 <p>
