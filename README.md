@@ -1,7 +1,7 @@
 - ### 👋 Hi world, My name is Denitsa Velikova @deniitooou ! 
-- I'm an engineer and I studied for four years at the Technical University of Varna then I received my bachelor's degree.. 
-- I've got into programming a bit later. :upside_down_face:
-- I've been traveling the world for seven years before the pandemic started but home country is Bulgaria and I'm living in Karnobat currently. 
+- I was a machine engineer in England, but now I'm inlove in software pogramming..
+- I've got into programming a bit later... :upside_down_face:
+- I've been traveling the world for five years before the pandemic started but home country is Bulgaria and I'm living in Sofia currently. 
 - 👀 I’m interested in Learning!
  
  ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
@@ -16,7 +16,7 @@
 <p>
 <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=stefangrusev&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true" />
 
-  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefangrusev&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true" />
+  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniitooou&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true" />
 </p>
 <p></p><p></p>
 
