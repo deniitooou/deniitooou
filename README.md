@@ -1,12 +1,10 @@
-↬ My name is Denitsa Velikova @deniitooou ! 
+↬ My name is Denitsa Velikova @deniitooou! 26 years old from Sofia.
 
 ↬ I was a machine engineer in England, but now I'm inlove in software pogramming..
 
 ↬ I've got into programming a bit later...
 
-
-
-↬ I've been traveling the world for five years before the pandemic started but home country is Bulgaria and I'm living in Sofia currently. 
+↬ I love animals and traveling around the world.
 
 ↬ Some piece of the things that I'm interested ..
 
@@ -17,10 +15,10 @@
  ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/photo-Shoots-white?style=for-the-badge&logo=appveyor)
  
-### Feel free to contact me also in:
+### 𝕱𝖊𝖊𝖑 𝖋𝖗𝖊𝖊 𝖙𝖔 𝖈𝖔𝖓𝖙𝖆𝖈𝖙 𝖒𝖊 𝖆𝖑𝖘𝖔 𝖎𝖓:
 <a href="https://www.linkedin.com/in/denny-velikova-951354239/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
  
-### Some statistic for my GitHub profile:
+### 𝕾𝖔𝖒𝖊 𝖘𝖙𝖆𝖙𝖎𝖘𝖙𝖎𝖈 𝖋𝖔𝖗 𝖒𝖞 𝕲𝖎𝖙𝕳𝖚𝖇 𝖕𝖗𝖔𝖋𝖎𝖑𝖊:
 <p>
 <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deniitooou&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true" />
 
@@ -28,7 +26,7 @@
 </p>
 <p></p><p></p>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=deniitooou&style=for-the-badge&color=brightgreen)
+![Profile View Counter](https://komarev.com/ghpvc/?username=deniitooou&style=for-the-badge&color=blue)
 
 
 <!---
