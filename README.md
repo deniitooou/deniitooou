@@ -1,4 +1,10 @@
+↬ My name is Denitsa Velikova @deniitooou! 26 years old from Sofia.
 
+↬ I was a machine engineer in England, but now I'm inlove in software pogramming..
+
+↬ I've got into programming a bit later...
+
+↬ I love animals and traveling around the world.
 
 ↬ Some piece of the things that I'm interested ..
 
@@ -27,3 +33,6 @@
 stefangrusev/stefangrusev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
