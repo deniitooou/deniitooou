@@ -1,6 +1,6 @@
 ↬ My name is Denitsa Velikova @deniitooou! 26 years old from Sofia.
 
-↬ I was a machine engineer in England, but now I'm inlove in software progamming..
+↬ I was a machine engineer in England, but now I'm inlove in software programming..
 
 ↬ I've got into programming a bit later...
 
