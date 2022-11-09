@@ -1,12 +1,13 @@
-↬ My name is Denitsa Velikova @deniitooou! 26 years old from Sofia.
+↬ My name is Denitsa Velikova!
+↬ 26 years old
+↬ Sofia
+↬ Student at Software University - [SoftUni]
 
 ↬ I was a machine engineer in England, but now I'm inlove in software programming..
 
-↬ I've got into programming a bit later...
+↬ I love animals, traveling around the world and learning something new everyday..
 
-↬ I love animals and traveling around the world.
-
-↬ Some piece of the things that I'm interested ..
+↬ Some piece of the things that I'm interested..
 
  
  ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
