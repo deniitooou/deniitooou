@@ -1,6 +1,9 @@
 ↬ My name is Denitsa Velikova!
+
 ↬ 26 years old
+
 ↬ Sofia
+
 ↬ Student at Software University - [SoftUni]
 
 ↬ I was a machine engineer in England, but now I'm inlove in software programming..
