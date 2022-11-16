@@ -8,17 +8,10 @@
 </p>
 
   <h2 align="center">↬ My name is Denitsa Velikova </h2> 
-
-  
-↬ 26 years old
-
-↬ Sofia
-                                   
-↬ Student at Software University -  ┏╋ SoftUni ╋┓
-
-↬ I was a machine engineer in England, but now I'm inlove in software programming..
-
-↬ I love animals, traveling around the world and learning something new everyday..
+  <h2 align="center">↬ 26 years old </h2> 
+  <h2 align="center">↬ Sofia </h2> 
+  <h2 align="center">↬ Student at Software University - SoftUni </h2> 
+  <h2 align="center">↬ I love animals, traveling around the world and learning something new everyday.. </h2> 
 
 <h1 align="center">Some piece of the things that I'm interested: </h1>  
  
