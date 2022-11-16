@@ -31,7 +31,6 @@
   
 <a href="https://www.linkedin.com/in/denny-velikova-951354239/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=deniitooou&style=for-the-badge&color=blue)
 <h1 align="center">𝕾𝖔𝖒𝖊 𝖘𝖙𝖆𝖙𝖎𝖘𝖙𝖎𝖈 𝖋𝖔𝖗 𝖒𝖞 𝕲𝖎𝖙𝕳𝖚𝖇 𝖕𝖗𝖔𝖋𝖎𝖑𝖊: </h1>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -41,9 +40,5 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniitooou&layout=compact&theme=radical"  height="180">
     </a>
    </p>
-  <p align="center">
-  <a href="https://github.com/ESKYoung/shields-io-visitor-counter">
-    <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=deniitooou.deniitooou&style=for-the-badge">
-  <a>
-</p>
-  
+
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=deniitooou&style=for-the-badge&color=blue)
