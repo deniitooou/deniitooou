@@ -12,7 +12,7 @@
   <h2 align="center">↬ Sofia </h2> 
   <h2 align="center">↬ Student at Software University - SoftUni </h2>
   
-<h1 align="center">Some piece of the things that I'm interested: </h1>  
+<h1 align="center">𝕾𝖔𝖒𝖊 𝖕𝖎𝖊𝖈𝖊 𝖔𝖋 𝖙𝖍𝖊 𝖙𝖍𝖎𝖓𝖌𝖘 𝖙𝖍𝖆𝖙 𝕴'𝖒 𝖎𝖓𝖙𝖊𝖗𝖊𝖘𝖙𝖊𝖉: </h1>  
  
 ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
