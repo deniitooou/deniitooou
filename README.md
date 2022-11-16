@@ -13,6 +13,8 @@
   <h2 align="center">↬ Student at Software University - SoftUni </h2> 
   <h3 align="center">↬ I love animals, traveling around the world and learning something new everyday.. </h3> 
 
+  
+  
 <h1 align="center">Some piece of the things that I'm interested: </h1>  
  
 ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
