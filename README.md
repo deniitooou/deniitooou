@@ -28,7 +28,7 @@
  ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/photo-Shoots-white?style=for-the-badge&logo=appveyor)
  
-### 𝕱𝖊𝖊𝖑 𝖋𝖗𝖊𝖊 𝖙𝖔 𝖈𝖔𝖓𝖙𝖆𝖈𝖙 𝖒𝖊 𝖆𝖑𝖘𝖔 𝖎𝖓:
+<h1 align="center">𝕱𝖊𝖊𝖑 𝖋𝖗𝖊𝖊 𝖙𝖔 𝖈𝖔𝖓𝖙𝖆𝖈𝖙 𝖒𝖊 𝖆𝖑𝖘𝖔 𝖎𝖓: </h1> 
 <a href="https://www.linkedin.com/in/denny-velikova-951354239/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=deniitooou&style=for-the-badge&color=blue)
