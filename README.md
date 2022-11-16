@@ -1,3 +1,12 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3695F7&size=32&center=true&vCenter=true&lines=Hello%2C+World!;My+name+is+Denitsa.;Welcome+to+my+profile!">
+</h1>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=deniitooou&theme=radical&column=7">
+</p>
+
 ↬ My name is Denitsa Velikova!
 
 ↬ 26 years old
