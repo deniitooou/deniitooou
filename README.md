@@ -24,10 +24,10 @@
 ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![image](https://img.shields.io/badge/photo-Shoots-white?style=for-the-badge&logo=appveyor)
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![image](https://img.shields.io/badge/photo-Shoots-white?style=for-the-badge&logo=appveyor)
   
  
 <h1 align="center">𝕱𝖊𝖊𝖑 𝖋𝖗𝖊𝖊 𝖙𝖔 𝖈𝖔𝖓𝖙𝖆𝖈𝖙 𝖒𝖊 𝖆𝖑𝖘𝖔 𝖎𝖓: </h1> 
