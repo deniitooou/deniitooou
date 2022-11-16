@@ -41,5 +41,9 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniitooou&layout=compact&theme=radical"  height="180">
     </a>
    </p>
-  
+  <p align="center">
+  <a href="https://github.com/ESKYoung/shields-io-visitor-counter">
+    <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=deniitooou.deniitooou&style=for-the-badge">
+  <a>
+</p>
   
