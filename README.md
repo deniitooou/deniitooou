@@ -31,12 +31,8 @@
 ### 𝕱𝖊𝖊𝖑 𝖋𝖗𝖊𝖊 𝖙𝖔 𝖈𝖔𝖓𝖙𝖆𝖈𝖙 𝖒𝖊 𝖆𝖑𝖘𝖔 𝖎𝖓:
 <a href="https://www.linkedin.com/in/denny-velikova-951354239/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-
-
-
+![Profile View Counter](https://komarev.com/ghpvc/?username=deniitooou&style=for-the-badge&color=blue)
 <h1 align="center">𝕾𝖔𝖒𝖊 𝖘𝖙𝖆𝖙𝖎𝖘𝖙𝖎𝖈 𝖋𝖔𝖗 𝖒𝖞 𝕲𝖎𝖙𝕳𝖚𝖇 𝖕𝖗𝖔𝖋𝖎𝖑𝖊: </h1>
-  [Profile View Counter](https://komarev.com/ghpvc/?username=deniitooou&style=for-the-badge&color=blue)
-  
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=deniitooou&theme=radical&show_icons=true" height="180">
