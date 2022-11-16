@@ -10,10 +10,7 @@
   <h2 align="center">↬ My name is Denitsa Velikova </h2> 
   <h2 align="center">↬ 26 years old </h2> 
   <h2 align="center">↬ Sofia </h2> 
-  <h2 align="center">↬ Student at Software University - SoftUni </h2> 
-  <h3 align="center">↬ I love animals, traveling around the world and learning something new everyday.. </h3> 
-
-  
+  <h2 align="center">↬ Student at Software University - SoftUni </h2>
   
 <h1 align="center">Some piece of the things that I'm interested: </h1>  
  
