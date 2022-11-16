@@ -7,7 +7,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=deniitooou&theme=radical&column=7">
 </p>
 
-  <h1 align="center">↬ My name is Denitsa Velikova </h1> 
+  <h2 align="center">↬ My name is Denitsa Velikova </h2> 
 
   
 ↬ 26 years old
