@@ -42,5 +42,7 @@
    </p>
 
  <p align="center">
+   
    ![Profile View Counter](https://komarev.com/ghpvc/?username=deniitooou&style=for-the-badge&color=blue)
+   
   </p>
