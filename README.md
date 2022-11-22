@@ -6,7 +6,7 @@
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+   <a href="https://imgbb.com/"><img src="https://i.ibb.co/XshKxrN/Hi.gif" alt="Hi" border="0"></a>
   </a>
 </h1>
 
