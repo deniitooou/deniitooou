@@ -40,7 +40,7 @@
 <p align="center">
   <img height="150" width="150" src="https://i.ibb.co/sqMYdbr/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deniitooou&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
+  <img height="150" width="150" src="https://i.ibb.co/kDW1ZrC/right.webp">
 </p>
 
 #
