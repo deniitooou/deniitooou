@@ -1,8 +1,8 @@
 <h1 align="center">
+  <img src="GIF/Earth.gif" width="24px">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <img src="GIF/Hi.gif" width="40px" />
 </h1>
-
-#
 
 <br/>
 <br/>
@@ -18,7 +18,6 @@
 <br/>
 <br/>
 
-###############################################################
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/deniitooou" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
@@ -32,7 +31,7 @@
   </code>
 </p> -->
 
-##############################################################
+#
 
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=deniitooou&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
@@ -42,7 +41,7 @@
   <img height="150" width="150" src="https://i.ibb.co/kDW1ZrC/right.webp">
 </p>
 
-##########################################################
+#
 
 <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
 <br/>
@@ -55,8 +54,7 @@
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"></code>
-
-#################################################################
+#
 
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg"></code>
@@ -64,7 +62,7 @@
 
 <br/>
 
-####################################################################################
+#
 
 <details open="">
 <summary>
