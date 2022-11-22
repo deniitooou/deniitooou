@@ -22,7 +22,6 @@
 <p align="center">
   <img src="https://gpvc.arturio.dev/deniitooou" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
 <!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=deniitooou&style=flat&color=brightgreen"> •    -->
-  <a href="https://user-badge.committers.top/india_private/deniitooou"><img src="https://user-badge.committers.top/india_private/JayantGoel001.svg"></a> •
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/deniitooou?label=Followers&style=social"> •
   <img src="https://img.shields.io/github/stars/deniitooou?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
   <a href="https://github.com/sponsors/deniitooou"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
@@ -45,7 +44,7 @@
 
 #
 
-<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
+<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://i.ibb.co/PNyz1Jc/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f3137666561393230666633366566346635623837376435.gif"/>
 <br/>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
