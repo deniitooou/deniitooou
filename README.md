@@ -78,7 +78,7 @@
   </a>
 </p>
 
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/smir45?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/deniitooou?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
 
 
@@ -88,15 +88,12 @@
 ### ⚙️ &nbsp; GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/smir45">
+<a href="https://github.com/deniitooou">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smir45&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smir45&layout=compact&exclude_lang=java+r&theme=vue-light" />
 </a>
 </p>
 
-
-
 <div align="center">
-
 
 <br/>
