@@ -38,7 +38,7 @@
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=deniitooou&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <p align="center">
-  <img height="150" width="150" src="https://ibb.co/dDzYwjy">
+  <img height="150" width="150" src="https://i.ibb.co/sqMYdbr/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deniitooou&theme=dark&hide_border=true"/>
   <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
 </p>
