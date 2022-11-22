@@ -55,8 +55,9 @@
 
 
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg"></code>
-
+<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg"></code
+<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"></code>
+<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"></code>
 #
 
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
