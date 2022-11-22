@@ -13,7 +13,7 @@
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://ibb.co/XkT49gK">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
 - 🔭 26 years old
@@ -73,7 +73,7 @@
 ## 🔥 My contribution streak
 
 <p align="center">
-  <a href="https://github.com/smir45/github-readme-streak-stats">
+  <a href="https://github.com/deniitooou/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=smir45#version3"/>
   </a>
 </p>
