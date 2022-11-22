@@ -1,5 +1,3 @@
-### Hello World, I'm Denitsa Velikova:
-
 <h1 align="center">
   <a target="_blank">
     <a href="https://imgbb.com/"><img src="https://i.ibb.co/p3KSxHm/Earth.gif" alt="Earth" border="0"></a>
@@ -15,10 +13,10 @@
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
-
-- 🔭 26 years old
-- 🌱 Sofia
-- 👯 Student at Software University - SoftUni
+- 💬 Denitsa Velikova
+- 💬 26 years old
+- 💬 Sofia
+- 💬 Student at Software University - SoftUni
 
 <br/>
 <br/>
