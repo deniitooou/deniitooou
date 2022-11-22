@@ -125,7 +125,7 @@
  > 
 > 📦 2.9 MB Used in GitHub's Storage 
  > 
-> 📜 8 Public Repositories 
+> 📜 7 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
