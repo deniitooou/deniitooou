@@ -13,7 +13,7 @@
 <br/>
 <br/>
 <a target="_blank">
-<a href="https://ibb.co/XkT49gK"><img src="https://i.ibb.co/fG7Sb5y/code.gif" alt="code" border="0"></a>
+  <img align="right" height="250" width="400" alt="GIF" src="https://ibb.co/XkT49gK">
 </a>
 
 - 🔭 I’m currently working on **Web Development**
