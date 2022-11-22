@@ -49,8 +49,6 @@
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 
 <br/>
-<br/>
-
 
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg"></code>
