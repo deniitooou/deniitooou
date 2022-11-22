@@ -89,8 +89,8 @@
 
 <p align="center">
 <a href="https://github.com/deniitooou">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smir45&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smir45&layout=compact&exclude_lang=java+r&theme=vue-light" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=deniitooou&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deniitooou&layout=compact&exclude_lang=java+r&theme=vue-light" />
 </a>
 </p>
 
