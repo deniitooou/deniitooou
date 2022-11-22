@@ -147,53 +147,21 @@
 ⌚︎ Time Zone: Sofia/Bulgaria
 
 💬 Programming Languages: 
-C#                       11 hrs 34 mins      █████████████████████████   99.87% 
+C#                       43 hrs 34 mins      █████████████████████████   99.87% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
 
 🔥 Editors: 
-Browser                  11 hrs 34 mins      █████████████████████████   99.87% 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
+Visual Studio            43 hrs 34 mins      █████████████████████████   99.87% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
 
 🐱‍💻 Projects: 
-examples                 11 hrs 35 mins      █████████████████████████   100.0%
+exarcise-softuni         43 hrs 34 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  11 hrs 35 mins      █████████████████████████   100.0%
+Windows                  43 hrs 34 mins      █████████████████████████   100.0%
 
 ```
-
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         21 repos            █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-Python                   17 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.35% 
-C++                      13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.27% 
-JavaScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
-HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.18%
-
-```
-
-
-
- Last Updated on 22/11/2022 02:36:55 UTC
-<!--END_SECTION:waka-->
-
-<p align="center">
-  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
-  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
-</p>
-
 #
-
-<p align="center">
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
-  <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
-</p>
-
-<p align="center">
-  <img width="75%" src="metrics.svg"/>
-  <img src="metrics.detailed.svg" width="75%"/>
-</p>
 
 <h1>
   Connect With Me
@@ -202,21 +170,9 @@ HTML                     9 repos             ██░░░░░░░░░�
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="SVG/linkedin.svg"/></code>
+  <a href="https://www.linkedin.com/in/denitsa-velikova/" target="_blank">
+    <code><img height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"/></code>
   </a>
-  <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
-    <code><img  height="60" width="60" src="SVG/facebook.svg"/></code>
-  </a>
-  <a href="https://www.instagram.com/jayantgoel001/" target="_blank">
-    <code><img height="60" width="60" src="SVG/instagram.svg"/></code>
-  </a>
-  <a href="https://twitter.com/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="SVG/twitter.svg"/></code>
-  </a>
-  <a href="https://dev.to/jayantgoel001">
-    <code><img src="SVG/dev.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
-  </a>     
 </p>
 <br/>
 
