@@ -42,7 +42,7 @@
 
 <br/>
 <br/>
-<code><img height="40" width="40" src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg"></code>
+<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg"></code>
 
 #
