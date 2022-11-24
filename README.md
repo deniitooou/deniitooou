@@ -123,9 +123,7 @@
 
 > 🏆 241 Contributions in the Year 2022
  > 
-> 📦 2.9 MB Used in GitHub's Storage 
- > 
-> 📜 7 Public Repositories 
+> 📜 6 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
