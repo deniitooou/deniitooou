@@ -123,7 +123,7 @@
 
 > 🏆 272 Contributions in the Year 2022
  > 
-> 📜 7 Public Repositories 
+> 📜 6 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
