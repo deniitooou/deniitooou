@@ -61,22 +61,6 @@
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/t-sql.svg"></code></code>
 <br/>
 
-#
-
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=deniitooou&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-</p>
-</details>
-
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=deniitooou&theme=react-dark&hide_border=true&area=true)
-
 <h4 align="center">
   
 ```diff
