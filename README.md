@@ -51,7 +51,6 @@
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"></code>
-
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg"></code>
 #
 
